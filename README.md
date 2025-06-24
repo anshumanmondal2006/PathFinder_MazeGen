@@ -1,0 +1,86 @@
+## MazePath Visualizer
+
+![](PathF.gif)
+
+This web-application helps you visualizes 5 different pathfinding algorithms and 5 maze generation algorithms. You can choose one algorithm at a time or multiple algorithms simultaneously. Up to four grids will be available and in each grid you can assign a maze generation algorithm and a pathfinding algorithm.
+
+#### Checkout the deployed site here:
+
+###### [https://anshumanmondal2006.github.io/MazePath-Finder/](https://anshumanmondal2006.github.io/MazePath-Finder/)
+
+🔧 Built using:
+<img src="https://img.icons8.com/color/48/html-5.png" width="24"/> HTML
+&nbsp;|&nbsp;
+<img src="https://img.icons8.com/color/48/css3.png" width="24"/> CSS
+&nbsp;|&nbsp;
+<img src="https://img.icons8.com/color/48/javascript.png" width="24"/> JavaScript
+
+### 🔍 Pathfinding Algorithms Used
+
+- 🔹 **Breadth-First Search (BFS)**
+- 🔹 **Depth-First Search (DFS)**
+- 🔹 **Dijkstra’s Algorithm**
+- 🔹 **A\* (A-star) Algorithm**
+- 🔹 **Greedy Best-First Search**
+
+---
+
+### 🧩 Maze Generation Algorithms
+
+- 🔸 **Recursive Backtracker**
+- 🔸 **Recursive Division**
+- 🔸 **Randomized Prim’s Algorithm**
+- 🔸 **Basic Matrix Traversals** (Spiral and Diagonal patterns)
+
+---
+
+## ✨ Salient Features
+
+1. **🧑‍🏫 Interactive Tutorial for First-Time Users**  
+   A built-in personalized walkthrough guides new users through the interface, explaining how to choose algorithms, generate mazes, and interpret visualizations.
+
+2. **🖥️ Four Simultaneous Visualizations**  
+   The interface supports four independent grids side by side. Each grid allows the user to choose a unique combination of maze generation and pathfinding algorithm to compare their behavior live.
+
+3. **🧭 Clear & Informative Legend**  
+   A dynamic legend explains each visual component:
+
+   - Unvisited nodes
+   - Visited nodes
+   - Walls
+   - Start and end points
+   - Current node
+   - Weighted nodes
+   - Shortest path nodes
+
+4. **⏱️ Adjustable Animation Speeds**  
+   Maze generation and pathfinding animations can be slowed down or sped up using an intuitive slider — ideal for better understanding of algorithm behavior.
+
+5. **➕ Support for Weights & Diagonal Movement**  
+   Users can manually assign weighted cells to simulate real-world terrains. Optionally, diagonal steps can be enabled to explore 8-directional pathfinding.
+
+---
+
+## 🚀 Future Improvements
+
+1. **⏹️ Pause / Stop Button**  
+   A dedicated control to pause or stop ongoing animations for better user control and analysis.
+
+2. **📐 Customizable Grid Size**  
+   Allow users to define grid dimensions dynamically to simulate larger or more compact pathfinding scenarios.
+
+3. **📊 Additional Algorithms**  
+   Planned support for more advanced pathfinding algorithms such as:
+   - Bellman-Ford
+   - Floyd-Warshall
+   - Bidirectional BFS
+   - Johnson’s Algorithm
+   - Jump Point Search (JPS)
+
+---
+
+### 📱 Preview on mobile devices
+
+> ✅ Fully responsive — works on mobile and tablet screens!
+
+![](mobile.gif)
