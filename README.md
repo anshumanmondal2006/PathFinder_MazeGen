@@ -6,7 +6,7 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
 
 #### Checkout the deployed site here:
 
-###### [https://anshumanmondal2006.github.io/MazePath-Finder/](https://anshumanmondal2006.github.io/MazePath-Finder/)
+###### [https://anshumanmondal2006.github.io/PathFinder_MazeGen/](https://anshumanmondal2006.github.io/PathFinder_MazeGen/)
 
 🔧 Built using:
 <img src="https://img.icons8.com/color/48/html-5.png" width="24"/> HTML
@@ -17,20 +17,20 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
 
 ### 🔍 Pathfinding Algorithms Used
 
-- 🔹 **Breadth-First Search (BFS)**
-- 🔹 **Depth-First Search (DFS)**
-- 🔹 **Dijkstra’s Algorithm**
-- 🔹 **A\* (A-star) Algorithm**
-- 🔹 **Greedy Best-First Search**
+ 🔹 **Breadth-First Search (BFS)**
+ 🔹 **Depth-First Search (DFS)**
+ 🔹 **Dijkstra’s Algorithm**
+ 🔹 **A\* (A-star) Algorithm**
+ 🔹 **Greedy Best-First Search**
 
 ---
 
 ### 🧩 Maze Generation Algorithms
 
-- 🔸 **Recursive Backtracker**
-- 🔸 **Recursive Division**
-- 🔸 **Randomized Prim’s Algorithm**
-- 🔸 **Basic Matrix Traversals** (Spiral and Diagonal patterns)
+ 🔸 **Recursive Backtracker**
+ 🔸 **Recursive Division**
+ 🔸 **Randomized Prim’s Algorithm**
+ 🔸 **Basic Matrix Traversals** (Spiral and Diagonal patterns)
 
 ---
 
@@ -74,8 +74,7 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
    - Bellman-Ford
    - Floyd-Warshall
    - Bidirectional BFS
-   - Johnson’s Algorithm
-   - Jump Point Search (JPS)
+
 
 ---
 
@@ -84,3 +83,14 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
 > ✅ Fully responsive — works on mobile and tablet screens!
 
 ![](mobile.gif)
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 💖 Wish to drop a compliment?
+
+For any further queries, feel free to reach out:
+
+📧 Email: [anshuman.mondal@iitg.ac.in](mailto:anshuman.mondal@iitg.ac.in)  
+🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/anshuman-mondal-145314280)
