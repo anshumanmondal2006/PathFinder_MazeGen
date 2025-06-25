@@ -2,9 +2,9 @@
 
 ![](PathF.gif)
 
-This web-application helps you visualizes 5 different pathfinding algorithms and 5 maze generation algorithms. You can choose one algorithm at a time or multiple algorithms simultaneously. Up to four grids will be available and in each grid you can assign a maze generation algorithm and a pathfinding algorithm.
+This web application helps you visualize 5 different pathfinding algorithms and 5 maze generation algorithms. You can choose one algorithm at a time or multiple algorithms simultaneously. Up to four grids will be available, and in each grid, you can assign a maze generation algorithm and a pathfinding algorithm.
 
-#### Checkout the deployed site here:
+#### Check out the deployed site here:
 
 ###### [https://anshumanmondal2006.github.io/PathFinder_MazeGen/](https://anshumanmondal2006.github.io/PathFinder_MazeGen/)
 
@@ -27,10 +27,10 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
 
 ### 🧩 Maze Generation Algorithms
 
- 🔸 **Recursive Backtracker**
- 🔸 **Recursive Division**
- 🔸 **Randomized Prim’s Algorithm**
- 🔸 **Basic Matrix Traversals** (Spiral and Diagonal patterns)
+ 🔸 **Recursive Backtracker**<br>
+ 🔸 **Recursive Division**<br>
+ 🔸 **Randomized Prim’s Algorithm**<br>
+ 🔸 **Basic Matrix Traversals** (Spiral and Diagonal patterns)<br>
 
 ---
 
@@ -40,7 +40,7 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
    A built-in personalized walkthrough guides new users through the interface, explaining how to choose algorithms, generate mazes, and interpret visualizations.
 
 2. **🖥️ Four Simultaneous Visualizations**  
-   The interface supports four independent grids side by side. Each grid allows the user to choose a unique combination of maze generation and pathfinding algorithm to compare their behavior live.
+   The interface supports four independent grids side by side. Each grid allows the user to select a unique combination of maze generation and pathfinding algorithms to compare their behavior in real-time.
 
 3. **🧭 Clear & Informative Legend**  
    A dynamic legend explains each visual component:
@@ -54,10 +54,10 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
    - Shortest path nodes
 
 4. **⏱️ Adjustable Animation Speeds**  
-   Maze generation and pathfinding animations can be slowed down or sped up using an intuitive slider — ideal for better understanding of algorithm behavior.
+   Maze generation and pathfinding animations can be slowed down or sped up using a slider for a better understanding of algorithm behavior.
 
 5. **➕ Support for Weights & Diagonal Movement**  
-   Users can manually assign weighted cells to simulate real-world terrains. Optionally, diagonal steps can be enabled to explore 8-directional pathfinding.
+   Users can manually assign weighted cells to simulate varieties. Optionally, diagonal steps can be enabled to explore 8-directional pathfinding.
 
 ---
 
@@ -70,7 +70,7 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
    Allow users to define grid dimensions dynamically to simulate larger or more compact pathfinding scenarios.
 
 3. **📊 Additional Algorithms**  
-   Planned support for more advanced pathfinding algorithms such as:
+   Introduction of more advanced pathfinding algorithms, such as:
    - Bellman-Ford
    - Floyd-Warshall
    - Bidirectional BFS
