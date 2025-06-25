@@ -17,11 +17,11 @@ This web-application helps you visualizes 5 different pathfinding algorithms and
 
 ### 🔍 Pathfinding Algorithms Used
 
- 🔹 **Breadth-First Search (BFS)**
- 🔹 **Depth-First Search (DFS)**
- 🔹 **Dijkstra’s Algorithm**
- 🔹 **A\* (A-star) Algorithm**
- 🔹 **Greedy Best-First Search**
+ 🔹 **Breadth-First Search (BFS)**<br>
+ 🔹 **Depth-First Search (DFS)**<br>
+ 🔹 **Dijkstra’s Algorithm**<br>
+ 🔹 **A\* (A-star) Algorithm**<br>
+ 🔹 **Greedy Best-First Search**<br>
 
 ---
 
